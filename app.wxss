@@ -1,0 +1,10 @@
+/* Prism 全局样式：绿色单色卡片语言（对齐 480×640 波导屏） */
+page {
+    background: #020604;
+    color: #3dff8c;
+    font-family: monospace;
+}
+
+.prism-title {
+    font-weight: 600;
+}
