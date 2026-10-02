@@ -1,1 +1,1 @@
-{"updatedAt": "10-02 03:40 (iPhone 通道测试)", "cards": [{"id": "api-test", "kind": "⚡ API", "title": "iPhone 写入通道验证", "body": "这条卡片由 GitHub API PUT 写入", "ts": 1790926469}, {"id": "sample-1", "kind": "▚ 日历", "title": "Prism 数据通道已打通", "body": "这条卡片来自 GitHub 仓库 · 眼镜端拉取成功", "ts": 1790924284}]}
+{"updatedAt":"10-02 18:23","cards":[{"id":"calendar-1790936592","kind":"📅 日历提醒","title":"测试事件","body":"01:10 开始 · 02:10 结束","ts":1790936592.955532}]}
